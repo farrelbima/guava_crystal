@@ -11,6 +11,7 @@ The notebook guides users through the dataset preparation, model training, valid
 Fruit quality is essential in the agricultural and trade industries, as fruit that does not meet standards can lead to significant economic losses and environmental impacts. Traditional methods of assessing fruit quality that rely on manual inspection are often inefficient and prone to errors. With the increasing global demand for food production, more effective solutions are needed. This project utilizes deep learning, in particular CNN, through image classification to detect fruit quality in real-time. A dataset of top-view images of crystal guava with classes consists of grade_a, grade_b, and grade_c fruit qualities.
 ## Outline
 * Dataset Preparation
+    * A brief explanation of the guava crystal dataset
     * Dataset training and validation split
     * Image data preprocessing 
 
