@@ -1,5 +1,5 @@
 
-# Crystal Guava Fruit Quality Detection Using CNN and ESP32-CAM
+# Crystal Guava Fruit Quality Detection Using CNN
 
 This project demonstrates a real-time guava crystal fruit quality detection using the Convolution Neural Networks (CNN). The model will be deployed to ESP32-CAM with the help of Edge Impulse.
 
