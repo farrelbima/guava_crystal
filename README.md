@@ -12,7 +12,7 @@ Fruit quality is essential in the agricultural and trade industries, as fruit th
 ## Outline
 * Dataset Preparation
     * Dataset training and validation split
-    * Image data preprocessing for object detection
+    * Image data preprocessing 
 
 * Training and Evaluating the Model
     * A brief understanding of the neural network architectures
