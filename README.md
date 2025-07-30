@@ -31,6 +31,15 @@ Fruit quality is essential in the agricultural and trade industries, as fruit th
 - numpy
 - matplotlib
 ```
+
+## Required Software and External Resources
+
+Before you begin, make sure you have the following installed or accessible:
+
+- [Edge Impulse](https://www.edgeimpulse.com/) – for model deployment.
+- [Arduino IDE](https://www.arduino.cc/en/software) – for programming the microcontroller/ESP32-CAM.
+- [OBS Studio](https://obsproject.com/) – for video streaming.
+
 ## Setup
 
 * Make an environment with ```python==3.8.20``` using the following command
