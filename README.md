@@ -16,7 +16,6 @@ Fruit quality is essential in the agricultural and trade industries, as fruit th
     * Image data preprocessing 
 
 * Training and Evaluating the Model
-    * A brief understanding of the neural network architectures
     * Initiating the training process 
     * Evaluating the model performance
 
